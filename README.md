@@ -1,4 +1,10 @@
 ### Steps
+* Instalar as dependências
+```
+npm install
+```
+* Copiar o arquivo `.env-example` e alterar para `.env`
+
 * Fazer build das imagens com docker-compose
 ```
 docker-compose build
@@ -32,4 +38,4 @@ docker-compose down
 |APP2_LOGSTASH_PORT   |Porta do Logstash da app 2                       |5000                     |:white_check_mark:|
 |ELASTICSEARCH_URL    |Url do elasticsearch                             |http://elasticsearch:9200|:white_check_mark:|
 
-Mantenha o arquivo *.env-example* e a tabela de variáveis sempre atualizada.
+Mantenha o arquivo `*.env-example*` e a tabela de variáveis sempre atualizada.
