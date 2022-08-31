@@ -1,5 +1,3 @@
-# Implementação de Logs centralizados com ELK
-
 ### Steps
 * Fazer build das imagens com docker-compose
 ```
