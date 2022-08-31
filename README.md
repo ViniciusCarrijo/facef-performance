@@ -39,6 +39,8 @@ docker-compose down
 |ELASTICSEARCH_URL    |Url do elasticsearch                             |http://elasticsearch:9200|:white_check_mark:|
 
 Mantenha o arquivo `.env-example` e a tabela de variáveis sempre atualizada.
+
+Exemplos das apps rodando:
 ![app1-app2-newrelic](https://user-images.githubusercontent.com/49416086/187796232-d6d8194b-4975-49c3-a3b6-38a6fabb99c0.png)
 
 ![grafico](https://user-images.githubusercontent.com/49416086/187796263-b10a07ca-3c25-4513-9cee-910febeae0c2.png)
